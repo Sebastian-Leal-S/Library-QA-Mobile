@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+    <test name="TestWeb">
+        <parameter name="driverType" value="web" />
+        <classes>
+            <class name="AppiumTest" />
+        </classes>
+    </test>
+    <test name="TestAppium">
+        <parameter name="driverType" value="appium" />
+        <classes>
+            <class name="AppiumTest" />
+        </classes>
+    </test>
+</suite>
