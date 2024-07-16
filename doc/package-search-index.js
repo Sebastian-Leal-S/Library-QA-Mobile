@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.periferiaitgroup"},{"l":"com.periferiaitgroup.evidencia"},{"l":"com.periferiaitgroup.utilities"},{"l":"example"}];updateSearchResults();

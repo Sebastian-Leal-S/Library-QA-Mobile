@@ -75,6 +75,13 @@ public class GenerarEvidencia {
         GestorArchivos.eliminarArchivo(rutaImg);
     }
 
+    /**
+     * 
+     * TODO: Document method capturarEvidencia
+     *
+     * @param error
+     * @param sugerencia
+     */
     public static void capturarEvidencia(String error, String sugerencia) {
         GenerarReportePDF.addSugerenciaOrtografia(error, sugerencia);
     }
